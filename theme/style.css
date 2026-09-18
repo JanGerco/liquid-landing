@@ -1,0 +1,12 @@
+/*
+Theme Name: Liquid Landing
+Theme URI: https://github.com/JanGerco/liquid-landing
+Author: JanGerco
+Description: Dark one-page landing theme: liquid gradient shapes, a pinned scroll stage, a brand intro, a full-screen phone menu and a bilingual contact form. No builder, no plugins.
+Version: 1.0.0
+Requires at least: 6.3
+Requires PHP: 7.4
+License: MIT
+Text Domain: liquid-landing
+*/
+/* Styles are enqueued from assets/css by functions.php. */
